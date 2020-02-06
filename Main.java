@@ -1,3 +1,5 @@
+/*This is a MiniProject, There are about 3 MiniProjects all contained in one*/
+
 import java.util.Scanner;
 import java.lang.Math.*;
 
